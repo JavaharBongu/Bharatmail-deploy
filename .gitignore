@@ -1,0 +1,6 @@
+/.env
+/node_modules
+/package-lock.json
+/cleint/node_modules
+/cleint/package-lock.json
+/cleint/.env
